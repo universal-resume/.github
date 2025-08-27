@@ -37,6 +37,9 @@ We are inspired by [json-resume](https://github.com/jsonresume) but diverged to 
   A lightweight, self-hosted tool to render resumes from JSON into **printable HTML/PDF**.  
   Template-based: contribute your own themes or tweak existing ones.  
 
+- **[pdf-generator](https://github.com/universal-resume/pdf-generator)**  
+  A NodeJS interactive CLI tool generating **PDF** resumes **from** universal-resume **JSON** files.  
+
 ---
 
 ## 🛠️ Roadmap
